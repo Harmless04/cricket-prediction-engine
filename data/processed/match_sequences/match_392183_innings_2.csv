@@ -1,0 +1,6 @@
+over,runs_in_over,wickets_in_over,cumulative_runs,cumulative_wickets,overs_remaining,run_rate,momentum,batsman_sr,bowler_economy,phase_Powerplay,phase_Middle,phase_Death
+0,9,0,9,0,19,9.0,0.0,134.2461063501588,7.857971014492754,True,False,False
+1,19,0,28,0,18,14.0,0.0,134.2461063501588,8.885714285714286,True,False,False
+2,13,0,41,0,17,13.666666666666666,0.0,134.2461063501588,7.6571428571428575,True,False,False
+3,5,0,46,0,16,11.5,0.0,134.2461063501588,9.15,True,False,False
+4,12,0,58,0,15,11.6,0.8333333333333339,134.2461063501588,8.01702786377709,True,False,False
